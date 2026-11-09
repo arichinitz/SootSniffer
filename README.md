@@ -41,7 +41,7 @@ A low-cost, DIY particle counter that uses a Raspberry Pi 5 and a microscope-sty
 3. Place the coverslip on top and slide it into the holder with the sampled side facing the lens
 4. Turn on the backlight and start the program on the Pi:
 ```bash
-python3 particle_counter.py
+python3 sootsniffer.py
 ```
 5. Open the live feed in a browser:
    - On the Pi: `http://localhost:8000`
